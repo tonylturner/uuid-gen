@@ -1,5 +1,5 @@
 # uuid-gen
-Simple python script to generate a specified number of UUIDs. Supports UUId Type 1, 3, 4 and 5. Defaults to 10.
+Simple python script to generate a specified number of UUIDs. Supports UUId Type 1, 3, 4 and 5. Defaults UUID Type 4, and count of 10. Use -c to specify more or fewer. 
 
 https://en.wikipedia.org/wiki/Universally_unique_identifier
 
